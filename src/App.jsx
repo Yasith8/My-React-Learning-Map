@@ -1,8 +1,8 @@
 import './App.css'
-import TodoList from './components/TodoList'
-//import Array from './components/Array'
-//import Card from './components/Card'
-//import Parent from './components/Parent'
+import TodoList from './components/ToDo List/TodoList'
+import Array from './components/SumArray Validation/Array'
+import Card from './components/Props-Parent to Child/Card' 
+import Parent from './components/props-Child to Parent/Parent'
 
 function App() {
 

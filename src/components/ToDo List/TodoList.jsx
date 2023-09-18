@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import TotoInput from './TotoInput'
+import TotoInput from '../TotoInput'
 
 function TodoList() {
 
