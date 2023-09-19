@@ -1,8 +1,9 @@
 import './App.css'
-import TodoList from './components/ToDo List/TodoList'
-import Array from './components/SumArray Validation/Array'
-import Card from './components/Props-Parent to Child/Card' 
-import Parent from './components/props-Child to Parent/Parent'
+import Design from './components/Styling/Design'
+//import TodoList from './components/ToDo List/TodoList'
+//import Array from './components/SumArray Validation/Array'
+//import Card from './components/Props-Parent to Child/Card' 
+//import Parent from './components/props-Child to Parent/Parent'
 
 function App() {
 
@@ -16,7 +17,8 @@ function App() {
 
   return (
     <div>
-      <TodoList/>
+      <Design/>
+      {/* <TodoList/> */}
       {/* <Parent/> */}
       {/* <Array/> */}
 

@@ -1,0 +1,54 @@
+.form-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgb(132, 0, 255);
+    padding: 10px;
+    width: 500px;
+    border-radius: 10px;
+}
+
+.form-container form {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-container form h3 {
+    text-align: center;
+}
+
+.form-container form div {
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.form-container form div input {
+    width: 200px;
+    height: 25px;
+}
+
+.form-container form div select {
+    width: 207px;
+    height: 30px;
+}
+
+.btn {
+    height: 40px;
+    border-radius: 10px;
+    background-color: rgb(36, 0, 119);
+    border: none;
+}
+
+.dit {
+    background-color: greenyellow;
+}
+
+.repeat {
+    background-color: orange;
+}
+
+.fail {
+    background-color: red;
+}

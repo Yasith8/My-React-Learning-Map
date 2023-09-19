@@ -1,5 +1,5 @@
-import React, { useState } from 'react'
-import TotoInput from '../TotoInput'
+/* import React, { useState } from 'react'
+import TotoInput from './TotoInput'
 
 function TodoList() {
 
@@ -30,4 +30,4 @@ function TodoList() {
   )
 }
 
-export default TodoList
+export default TodoList */

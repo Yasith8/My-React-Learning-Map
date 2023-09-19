@@ -1,5 +1,5 @@
-import React, { useState } from 'react'
-import './Todo.css'
+/* import React, { useState } from 'react'
+import '../ToDo List/ToDo.css'
 
 function TotoInput(props) {
     const [inputData,setInputData]=useState('');
@@ -30,4 +30,4 @@ function TotoInput(props) {
   )
 }
 
-export default TotoInput
+export default TotoInput */
