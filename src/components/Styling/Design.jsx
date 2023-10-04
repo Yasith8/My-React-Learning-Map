@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+/* import React, { useState } from 'react'
 import '../Styling/design.css'
 
 function Design() {
@@ -10,7 +10,7 @@ function Design() {
     const [name,setName]=useState('');
     const [mark,setMark]=useState(0);
 
-    
+  
 
 
     const formHandler=(event)=>{
@@ -82,4 +82,4 @@ function Design() {
   )
 }
 
-export default Design
+export default Design */

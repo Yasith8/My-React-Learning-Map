@@ -1,5 +1,7 @@
 import './App.css'
-import Design from './components/Styling/Design'
+import DashMain from './components/MiniResturent/DashMain'
+//import AgeList from './components/AgeProject/AgeList'
+//import Design from './components/Styling/Design'
 //import TodoList from './components/ToDo List/TodoList'
 //import Array from './components/SumArray Validation/Array'
 //import Card from './components/Props-Parent to Child/Card' 
@@ -17,8 +19,10 @@ function App() {
 
   return (
     <div>
-      <Design/>
+      <DashMain/>
+      {/* <AgeList/> */}
       {/* <TodoList/> */}
+      {/* <Design/> */}
       {/* <Parent/> */}
       {/* <Array/> */}
 
